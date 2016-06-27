@@ -1,0 +1,3 @@
+Home page on a small mobile device
+    selenium chrome http://samples.galenframework.com/tutorial1/tutorial1.html     640x480
+        check   home-page.gspec --include "mobile,all" --exclude "nomobile"
